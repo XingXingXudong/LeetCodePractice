@@ -46,3 +46,6 @@
 
 1. random_pick_with_weight_528.cpp
 
+## 妙用数据结构
+
+1. max_chunks_to_make_sorted_769.cpp
