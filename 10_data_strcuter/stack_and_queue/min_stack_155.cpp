@@ -37,7 +37,6 @@ private:
 };
 
 int main(int argc, char* argv[]) {
-    //Your MinStack object will be instantiated and called as such:
     MinStack* obj = new MinStack();
     obj->push(3);
     obj->push(2);
