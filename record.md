@@ -49,3 +49,4 @@
 ## 妙用数据结构
 
 1. max_chunks_to_make_sorted_769.cpp
+2. merge_k_sorted_list_28.cpp
