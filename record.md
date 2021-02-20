@@ -54,3 +54,8 @@
 4. sliding_window_maximum_239.cpp
 5. max_point_on_a_line_149.cpp
 6. subarray_sum_equals_k_560.cpp
+
+## 头大的字符串
+
+1. isomorphic_strings_205.cpp
+2. palinromic_substrings_647.cpp
