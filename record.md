@@ -60,3 +60,4 @@
 1. isomorphic_strings_205.cpp
 2. palinromic_substrings_647.cpp
 3. count_binary_substrings_696.cpp
+4. implement_strstr_28.cpp   // 字符串匹配Knuth-Morris-Pratt(KMP)算法
