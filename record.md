@@ -61,3 +61,8 @@
 2. palinromic_substrings_647.cpp
 3. count_binary_substrings_696.cpp
 4. implement_strstr_28.cpp   // 字符串匹配Knuth-Morris-Pratt(KMP)算法
+
+
+## List
+
+1. palindrome_list_234.cpp // 包含了快慢指针求列表中点、反转列表
